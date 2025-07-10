@@ -1,29 +1,32 @@
-<h1 align="center">Hey 👋 What's Up? / ¡Hola!</h1>
+<h1 align="center">⚡ Hey there, tech world! / ¡Hola mundo tech! ⚡</h1>
 
 <p align="center">
-  <strong>I'm William Cú</strong><br/>
-  Estudiante de Técnico Superior Universitario en Administración de Sistemas de la Información.<br/>
-  Passionate about technology, databases, and building useful software solutions. 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=I'm+William+Cú+%F0%9F%91%8B;Futuristic+IT+Engineer+in+the+making;Coding+my+way+through+the+Universe;SQL+%7C+PHP+%7C+C%23+%7C+Web+Dev+%7C+MongoDB" />
+</p>
+
+<p align="center">
+  <strong>💼 Estudiante de Técnico Superior Universitario en Administración de Sistemas de la Información</strong><br/>
+  <strong>🚀 Apasionado por la tecnología, bases de datos y construir soluciones que impactan</strong>
 </p>
 
 ---
 
-### 🧠 About Me / Sobre mí
+## 🧠 Sobre mí / About Me
 
-- 🎓 I’m currently studying to become an **IT Systems Administrator** in Guatemala.
-- 💻 I work with **SQL Server, MySQL, HTML, CSS, JavaScript, PHP (Laravel), C#**.
-- 🧰 Experienced using **Visual Studio Code, GitHub, AWS, Visual Studio**.
-- 🗃️ I use **MongoDB, SQL Server and MySQL** for managing data.
-- 🛠️ Built systems like:
-  - Registro de asistencia con lector de códigos QR/barras 📲
-  - Aplicación de escritorio para cálculo de cinemática 🎯
-  - Juego del ahorcado en HTML 🎮
-- 🤝 I enjoy **team projects with agile methodologies**.
-- 📚 Fast learner, self-taught and always looking to grow.
+- 🎓 Estudio para convertirme en un **Administrador de Sistemas de Información** en Guatemala.
+- 💻 Trabajo con: **SQL Server, MySQL, HTML, CSS, JavaScript, PHP (Laravel), y C#**.
+- 🛠️ Desarrollo en: **Visual Studio, VS Code, GitHub y AWS**.
+- 🗃️ Manejo de bases de datos con **SQL Server, MySQL y MongoDB**.
+- ⚙️ Sistemas desarrollados:
+  - 📲 Registro de asistencia con lector de códigos QR y barras
+  - 🎯 Aplicación de escritorio para cálculo de cinemática
+  - 🎮 Juego del ahorcado en HTML
+- 🤝 Trabajo en equipo usando **metodologías ágiles**.
+- 📚 **Autodidacta, curioso y en constante evolución**.
 
 ---
 
-### 🧰 Technologies I use
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,cs,sql,mysql,mongodb,git,github,vscode,aws" height="60" />
@@ -31,29 +34,37 @@
 
 ---
 
-### 📈 GitHub Stats
+## 🧠 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Willliams10&theme=dracula&hide_border=false&border_radius=5" height="150" />
-<img src="https://github-profile-trophy.vercel.app/?username=Willliams10&theme=dracula&no-frame=false&margin-w=8&margin-h=8" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Willliams10&theme=tokyonight&hide_border=false&border_radius=8" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Willliams10&theme=algolia&no-frame=false&margin-w=8&margin-h=8" height="150"/>
 </div>
 
 ---
 
-### 🧩 Contribution Activity
+## 📊 Contribution Activity
 
-<picture>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willliams10&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willliams10&layout=compact&theme=dracula)
-</picture>
-
----
-
-### 📬 Contact
-
-📧 **Correo**: williamcu404@gmail.com  
-🌍 Idiomas: Español / English  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Willliams10&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willliams10&layout=compact&theme=tokyonight" height="150"/>
+</div>
 
 ---
 
-> _“La tecnología no solo resuelve problemas, también crea oportunidades.”_  
+## 📬 Contacto
+
+- 📧 **Email**: williamcu404@gmail.com  
+- 🌍 **Idiomas**: Español / English  
+- 🧠 **Mente tecnológica con corazón guatemalteco 🇬🇹**
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=La+tecnolog%C3%ADa+no+solo+resuelve+problemas...;...también+crea+oportunidades."/>
+</p>
+
+---
+
+> _"No necesitas ser un genio, millonario, playboy o filántropo... solo pasión por la tecnología."_ 💡 — *Estilo Stark*
+
