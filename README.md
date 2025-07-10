@@ -66,5 +66,5 @@
 
 ---
 
-> _"No necesitas ser un genio, millonario, playboy o filántropo... solo pasión por la tecnología."_ 💡 — *Estilo Stark*
+> _"No necesitas ser un genio, millonario, playboy o filántropo... solo pasión por la tecnología."_ 💡 —
 
